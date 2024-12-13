@@ -1,6 +1,7 @@
 mod all_query;
 mod automaton_weight;
 mod bitset;
+mod block_join_query;
 mod bm25;
 mod boolean_query;
 mod boost_query;
@@ -14,6 +15,7 @@ mod explanation;
 mod fuzzy_query;
 mod intersection;
 mod more_like_this;
+mod nested_document_query;
 mod phrase_prefix_query;
 mod phrase_query;
 mod query;
